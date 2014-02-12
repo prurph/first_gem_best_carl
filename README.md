@@ -2,6 +2,8 @@
 
 [![Gem Version](https://badge.fury.io/rb/first_gem_best_carl.png)](http://badge.fury.io/rb/first_gem_best_carl)
 
+[![Coverage Status](https://coveralls.io/repos/prurph/first_gem_best_carl/badge.png)](https://coveralls.io/r/prurph/first_gem_best_carl)
+
 TODO: Write a gem description
 
 ## Installation
