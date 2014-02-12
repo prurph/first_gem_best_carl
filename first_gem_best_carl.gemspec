@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = FirstGemBestCarl::VERSION
   spec.authors       = ["Prescott Murphy"]
   spec.email         = ["prurph@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{My first gem. Doesn't do much.}
+  spec.description   = %q{This is the best carl gem. I cannot in good conscience advise using other carl gems.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
